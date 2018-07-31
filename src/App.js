@@ -6,7 +6,7 @@ import MyBooks from './MyBooks'
 import Search from './Search'
 
 
-class BooksApp extends React.Component {
+class App extends React.Component {
   state = {
     books: [],
     results:[],
@@ -86,4 +86,4 @@ class BooksApp extends React.Component {
   }
 }
 
-export default BooksApp;
+export default App;
