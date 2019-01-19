@@ -1,10 +1,14 @@
 {
-  "main.css": "static/css/main.1e984a0f.css",
-  "main.css.map": "static/css/main.1e984a0f.css.map",
-  "main.js": "static/js/main.229161a8.js",
-  "main.js.map": "static/js/main.229161a8.js.map",
-  "static\\media\\add.svg": "static/media/add.75d390e5.svg",
-  "static\\media\\arrow-back.svg": "static/media/arrow-back.20e8847d.svg",
-  "static\\media\\arrow-drop-down-black.svg": "static/media/arrow-drop-down-black.c4f0e65f.svg",
-  "static\\media\\arrow-drop-down.svg": "static/media/arrow-drop-down.9d4e3f36.svg"
+  "main.css": "/myreads-react-udacity/static/css/main.768080bb.chunk.css",
+  "main.js": "/myreads-react-udacity/static/js/main.61cada25.chunk.js",
+  "main.js.map": "/myreads-react-udacity/static/js/main.61cada25.chunk.js.map",
+  "static/js/1.8ccf883c.chunk.js": "/myreads-react-udacity/static/js/1.8ccf883c.chunk.js",
+  "static/js/1.8ccf883c.chunk.js.map": "/myreads-react-udacity/static/js/1.8ccf883c.chunk.js.map",
+  "runtime~main.js": "/myreads-react-udacity/static/js/runtime~main.124ea636.js",
+  "runtime~main.js.map": "/myreads-react-udacity/static/js/runtime~main.124ea636.js.map",
+  "static/media/App.css": "/myreads-react-udacity/static/media/arrow-back.20e8847d.svg",
+  "static/css/main.768080bb.chunk.css.map": "/myreads-react-udacity/static/css/main.768080bb.chunk.css.map",
+  "index.html": "/myreads-react-udacity/index.html",
+  "precache-manifest.59a4b3f6904e448bbaaaa8d01aca1690.js": "/myreads-react-udacity/precache-manifest.59a4b3f6904e448bbaaaa8d01aca1690.js",
+  "service-worker.js": "/myreads-react-udacity/service-worker.js"
 }
